@@ -1,4 +1,14 @@
 # Vocabulary
+|||
+|:---:|---|
+|menu|a list oof all the food and drinks you can order at a restaurant|
+|wings||
+|Buffalo| city in the state of New York|
+|Buffalo wings| style of fried chicken wings first prepared in Buffalo, New York|
+|finger| the long thin part at the end of your hands|
+|chicken fingers|long thin pieces of chicken that are fried|
+|cheeks|on the sides of your face|
+|bow|used to decorate things|
 
 # Situations
 ## 1 - A Rude Reply
