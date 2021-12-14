@@ -1,3 +1,10 @@
+# Communicative Objectives
+- talking about feelings and attitudes
+- discussing restaurant menu options
+- asking for a favor
+- phrasal verbs
+
+
 # Vocabulary
 |||
 |:---:|---|
@@ -9,6 +16,7 @@
 |chicken fingers|long thin pieces of chicken that are fried|
 |cheeks|on the sides of your face|
 |bow|used to decorate things|
+
 
 # Situations
 ## 1 - A Rude Reply
@@ -44,6 +52,7 @@ EM: When I was a kid, it used to take me forty minutes to walk to school, and I 
 
 MAW: Yeah, but you're making up for it by complaining about everything now.
 
+
 # Going Further: Phrasal Verbs
 |||
 |:---:|:---:|
@@ -56,6 +65,7 @@ MAW: Yeah, but you're making up for it by complaining about everything now.
 | turn | out |
 | watch | up |
 | work | |
+
 
 # Expressions
 - Fixed Expressions

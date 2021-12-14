@@ -1,3 +1,12 @@
+# Communicative Objectives
+- warning a person about something
+- expressing admiration for a person's intelligence
+- expressing agreement
+- issuing a warning
+- *remember* or *remind*?
+- using *so + special verbs*
+
+
 # Vocabulary
 |||
 |:---:|---|

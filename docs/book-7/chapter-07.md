@@ -1,3 +1,10 @@
+# Communicative Objectives
+- talking about past events
+- expressing a desire to know something
+- talking about sports
+- using *who* and *that*
+
+
 # Vocabulary
 |||
 |:---:|---|
@@ -6,6 +13,7 @@
 | witch | |
 | headphones | |
 | extreme sports | exciting, dangerous and frightening sports |
+
 
 # Situations
 ## 1 - An Awkward Situation

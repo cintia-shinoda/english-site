@@ -1,3 +1,11 @@
+# Communicative Objectives
+- talking about lifestyles
+- talking about communication
+- talking about feelings
+- using *neither + special verb* and *(special verb + not) + either*
+- using the *-ing* form as a noun
+
+
 # Vocabulary
 |||
 |:---:|---|
@@ -6,6 +14,7 @@
 | schedule | a plan of what and when a person is going to do things |
 | batteries |  |
 | brick |  |
+
 
 # Situations
 ## 1 - An Alternative Schedule

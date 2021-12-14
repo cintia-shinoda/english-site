@@ -1,3 +1,13 @@
+# Communicative Objectives
+- inquiring about a situation
+- expressing frustation
+- expressing doubt
+- emphasizing a statement
+- asking someone to be more decisive
+- using follow
+- the present perfect continuous tense
+
+
 # Vocabulary
 |||
 |:---:|---|
@@ -66,6 +76,7 @@
     to talk about an action that started in the past and continues up to the present time. We use this tense especially when we want to emphasize the continuity of an action.
 
     is also used to talk about a repeated action that has continued over a period of time up to te present.
+
 
 # Expressions
 - to drive a person crazy

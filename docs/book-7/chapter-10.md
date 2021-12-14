@@ -1,3 +1,11 @@
+# Communicative Objectives
+- making a strong recommendation
+- expressing what one should or shouldn't do
+- warning a person about something
+- asking for confirmation
+- using *had better* and *had better not*
+
+
 # Vocabulary
 |||
 |:---:|---|

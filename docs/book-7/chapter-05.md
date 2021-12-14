@@ -1,3 +1,11 @@
+# Communicative Objectives
+- ordering food at a restaurant
+- talking about location
+- placement of things
+- using either...or
+- using neither...nor
+
+
 # Vocabulary
 |||
 |:---:|---|

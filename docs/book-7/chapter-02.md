@@ -1,3 +1,10 @@
+# Communicative Objectives
+- making polite requests
+- discussing habits
+- talking about preferences and desires
+- verbs followed by the -ing form
+
+
 # Vocabulary
 |||
 |:---:|---|
@@ -6,6 +13,7 @@
 | resolution | a promise to yourself you're going to do something |
 |list| group of items written down one after the other |
 |document|a written or printed text, especially something official, that is saved, often on a computer|
+
 
 # Situations
 ## 1 - Mom's New Rule
@@ -38,6 +46,7 @@ W: I just copy my last list and save it as a new document.
 2 - Yeah, the lot's chaotic when school lets out. I detest getting stuck in that long line of cars.
 
 3  - It's not the line that upsets my mom. She detests leaving the house before her favorite soap opera ends at 4.
+
 
 # Grammar
 ## VERBS FOLLOWED BY THE *-ING* FORM
