@@ -71,12 +71,16 @@
 
 # Grammar
 ## PRESENT PERFECT CONTINUOUS TENSE
-    verb to be in the present perfect tense (HAVE/HAS BEEN) + -ing form of the main verb
+verb to be in the present perfect tense *(HAVE/HAS BEEN) + -ing* form of the main verb
 
     to talk about an action that started in the past and continues up to the present time. We use this tense especially when we want to emphasize the continuity of an action.
 
     is also used to talk about a repeated action that has continued over a period of time up to te present.
+### Negative
+*haven't/hasn't been + (verb in ing) *
+### Questions
 
+don't use with  the verbs: to be, to have, to know
 
 # Expressions
 - to drive a person crazy

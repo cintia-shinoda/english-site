@@ -54,8 +54,8 @@
 
 
 # Grammar
-## NEITHER + SPECIAL VERB 
-## (SPECIAL VERB + NOT) + EITHER
+## NEITHER + SPECIAL VERB + subject
+## subject + (SPECIAL VERB + NOT) + EITHER
 
 ## THE *-ING* FORM AS A NOUN
 

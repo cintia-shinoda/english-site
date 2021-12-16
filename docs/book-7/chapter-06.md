@@ -51,6 +51,14 @@ Voice-over: Which of the brothers would you travel with? It's your call.
 
 # Grammar
 ## VERBS FOLLOWED BY THE *-ING* FORM / INFINITIVE
+begin
+bother
+continue
+have
+like 
+love
+prefer
+start
 
 ## BEFORE AND AFTER WITH THE PAST PERFECT TENSE OR THE SIMPLE PAST TENSE
 

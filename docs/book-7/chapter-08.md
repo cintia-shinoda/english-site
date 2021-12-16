@@ -64,7 +64,22 @@
 
 # Grammar
 ## SO + SPECIAL VERBS
-
+be
+have
+do
+can
+could
+may
+might
+shall
+shhould
+must
+will
+would
+ought to
+neeed
+dare
+used to
 
 # Expressions
 - to buckle up
