@@ -8,7 +8,7 @@
 # Vocabulary
 |||
 |:---:|---|
-|menu|a list oof all the food and drinks you can order at a restaurant|
+|menu|a list of all the food and drinks you can order at a restaurant|
 |wings||
 |Buffalo| city in the state of New York|
 |Buffalo wings| style of fried chicken wings first prepared in Buffalo, New York|

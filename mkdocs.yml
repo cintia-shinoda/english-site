@@ -13,4 +13,6 @@ nav:
     - Chapter 8: book-7/chapter-08.md
     - Chapter 9: book-7/chapter-09.md
     - Chapter 10: book-7/chapter-10.md
+  - book 8:
+    - Chapter 1: book-8/chapter-01.md
 theme: readthedocs
