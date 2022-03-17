@@ -1,18 +1,20 @@
-site_name: English
+site_name: English Studies
 site_url: https://example.com/
 nav:
   - Home: index.md
   - book 7:
-    - Chapter 1: book-7/chapter-01.md
-    - Chapter 2: book-7/chapter-02.md
-    - Chapter 3: book-7/chapter-03.md
-    - Chapter 4: book-7/chapter-04.md
-    - Chapter 5: book-7/chapter-05.md
-    - Chapter 6: book-7/chapter-06.md
-    - Chapter 7: book-7/chapter-07.md
-    - Chapter 8: book-7/chapter-08.md
-    - Chapter 9: book-7/chapter-09.md
-    - Chapter 10: book-7/chapter-10.md
+    - Lesson 1: book-7/lesson-01.md
+    - Lesson 2: book-7/lesson-02.md
+    - Lesson 3: book-7/lesson-03.md
+    - Lesson 4: book-7/lesson-04.md
+    - Lesson 5: book-7/lesson-05.md
+    - Lesson 6: book-7/lesson-06.md
+    - Lesson 7: book-7/lesson-07.md
+    - Lesson 8: book-7/lesson-08.md
+    - Lesson 9: book-7/lesson-09.md
+    - Lesson 10: book-7/lesson-10.md
+
   - book 8:
-    - Chapter 1: book-8/chapter-01.md
+    - Lesson 1: book-8/lesson-01.md
+    - Lesson 2: book-8/lesson-02.md
 theme: readthedocs

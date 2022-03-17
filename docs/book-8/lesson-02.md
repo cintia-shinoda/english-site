@@ -1,7 +1,11 @@
 # Lesson 2
 
 ## Communicative Objectives
-
+- expressing opinions about habits
+- expressing disbelief
+- talking about future plans
+- idioms: piece of cake, (have) a green thumb
+- verbs followed by the -ing form/infinitive with a change of meaning
 
 
 
@@ -28,9 +32,13 @@
 - F: Piece of cake. I've done it dozens of times.
 
 
-## Situation 2: Spacing Out
+### Situation 2: Spacing Out
 - Daughter:  Did you remember to turn off the air conditioner?
 - Mother: Yes, I did.
 - M: But I don't remember locking the front door.
 - D: I'm sure you did. How could you forget to lock the door? You just did it without thinking about it.
 - M: I hope you're right.
+
+
+
+## Expressions
