@@ -17,4 +17,5 @@ nav:
   - book 8:
     - Lesson 1: book-8/lesson-01.md
     - Lesson 2: book-8/lesson-02.md
+    - Lesson 3: book-8/lesson-03.md
 theme: readthedocs
