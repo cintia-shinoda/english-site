@@ -11,8 +11,21 @@
 
 
 ## Vocabulary
-
-
+|  |  |
+|:---|:---|
+| to whisper |  |
+| couch / sofa |  |
+| deck |  |
+| tools |  |
+| sharks |  |
+| bungalow |  |
+| field |  |
+| trailers |  |
+| mattresses |  |
+| blender |  |
+| electric sander |  |
+| weed whacker |  |
+| dinosaurs |  |
 
 
 ## Grammar
