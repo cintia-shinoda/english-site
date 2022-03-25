@@ -11,6 +11,7 @@
 
 
 ## Vocabulary
+
 |  |  |
 |:---|:---|
 | to whisper |  |
@@ -26,6 +27,10 @@
 | electric sander |  |
 | weed whacker |  |
 | dinosaurs |  |
+
+
+## Magazine Article
+
 
 
 ## Grammar
@@ -45,3 +50,16 @@
 
 
 ### Future Continuous Tense
+
+
+
+## Expressions
+
+|||
+|:---|:---|
+| to be on a pair with|  |
+| to be in the doghouse |  |
+| for a song |  |
+| to come in handy |  |
+| to kick off |  |
+| to be under a person's nose |  |

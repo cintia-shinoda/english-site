@@ -2,72 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/</loc>
-         <lastmod>2022-03-23</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/book-7/lesson-01/</loc>
-         <lastmod>2022-03-23</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/book-7/lesson-02/</loc>
-         <lastmod>2022-03-23</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/book-7/lesson-03/</loc>
-         <lastmod>2022-03-23</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/book-7/lesson-04/</loc>
-         <lastmod>2022-03-23</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/book-7/lesson-05/</loc>
-         <lastmod>2022-03-23</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/book-7/lesson-06/</loc>
-         <lastmod>2022-03-23</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/book-7/lesson-07/</loc>
-         <lastmod>2022-03-23</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/book-7/lesson-08/</loc>
-         <lastmod>2022-03-23</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/book-7/lesson-09/</loc>
-         <lastmod>2022-03-23</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/book-7/lesson-10/</loc>
-         <lastmod>2022-03-23</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/book-8/lesson-01/</loc>
-         <lastmod>2022-03-23</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/book-8/lesson-02/</loc>
-         <lastmod>2022-03-23</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/book-8/lesson-03/</loc>
-         <lastmod>2022-03-23</lastmod>
+         <lastmod>2022-03-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/book-8/lesson-04/</loc>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
