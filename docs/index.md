@@ -7,6 +7,7 @@
 | &check; | Book 7 | August/2021 - December/2021 |
 | on progress | Book 8 | February/2022 - June/2022 |
 | | Book 9 | August/2022 - December/2022 |
+
 <br><br>
 
 
@@ -54,6 +55,7 @@
 | &check; | 36 | 14/12/2021 | Final Written Exam | 91.7 / 100.0 |
 | &check; | 37 | 16/12/2021 | Oral Exam | 99.0 / 100.0 |
 | |  |  | **Average** | 95.9 / 100.0 |
+
 <br><br>
 
 
@@ -73,7 +75,7 @@
 | &check; | 09 | 17/03/2022 | Lesson 3 | |
 | &check; | 10 | 22/03/2022 | Lesson 3 | |
 | &check; | 11 | 24/03/2022 | Lesson 3 + Lesson 4 | |
-|  | 12 | 29/03/2022 | | |
+| &check; | 12 | 29/03/2022 | Lesson 4 | |
 |  | 13 | 31/03/2022 | | |
 |  | 14 | 05/04/2022 | | |
 |  | 15 | 07/04/2022 | | |
@@ -100,11 +102,5 @@
 |  | 36 | 23/06/2022 | Practice Test 2 |
 |  | 37 | 28/06/2022 | Final Written Exam |
 |  | 38 | 30/06/2022 | Oral Exam |
+
 <br><br>
-
-
-
-## Grades
-### Book 7 - To The Top - Advanced Stage
-<p align="center">
-  <img src="https://github.com/cintia-shinoda/english-site/blob/master/ram-final-7.jpeg" alt="relatorio-7"/>
