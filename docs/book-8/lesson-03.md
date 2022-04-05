@@ -1,6 +1,7 @@
 # Lesson 3
 
 
+
 ## Communicative Objectives
 - reading and understanding a magazine article
 - the suffix -LY
@@ -8,6 +9,7 @@
 - the suffix -ER
 - relative pronouns: WHICH and WHOSE
 - the Future Continuous Tense
+
 
 
 ## Vocabulary
@@ -30,6 +32,29 @@
 
 
 ## Magazine Article
+
+|  |  |
+|:---|:---|
+| adjoin |  |
+| bargain |  |
+| big-box (store) |  |
+| breakthrough |  |
+| bypass |  |
+| endure |  |
+| entrepreneur |  |
+| for a song |  |
+| goods |  |
+| hire out |  |
+| in the doghouse |  |
+| make a quick buck |  |
+| on a pair with |  |
+| slip into |  |
+| staff |  |
+| stranger |  |
+| surly |  |
+| take |  |
+| willing |  |
+
 
 
 

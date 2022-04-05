@@ -1,6 +1,13 @@
 # Lesson 4
 
 
+## Communicative Objectives
+- talking about preparing for and going onna family camping trip
+- must have + past participle
+- the prefix UN-
+
+
+
 ## Vocabulary
 
 |  |  |
@@ -42,15 +49,12 @@
 
 
 
-## Video Clip
-**THE GREAT OUTDOORS**
+## Video Clip: THE GREAT OUTDOORS
 
-AT HOME
+**AT HOME**
 
 - John: Well, Jean, I guess we should check the list to make sure we haven't forgotten anything. Let's see.
-
 One *portable camp stove*, a cooler, four six-packs of soft drinks, one box with dishes and silverware.
-
 Say, Mike, can you make sure *the flashlight is in the toolbox*?
 
 - Mike: Sure, Dad. Oh, here it is! Thanks, Buster.
@@ -74,10 +78,10 @@ Say, Mike, can you make sure *the flashlight is in the toolbox*?
 - Mike: Hey, Dad, *does the raft goes on top or in the back*?
 
 - John: The air, Mike! Take the air out first, *and then put it anywhere it'll fit*.
+<br><br>
 
 
 (in the car)
-
 - John: Everybody ready?
 
 - All: Buster! (They notice they've almost left the dog behind.)
@@ -89,7 +93,7 @@ Say, Mike, can you make sure *the flashlight is in the toolbox*?
 
 
 
-ON THE ROAD
+**ON THE ROAD**
 
 - Christy: Hey! What's that noise, Dad?
 
@@ -114,7 +118,7 @@ ON THE ROAD
 
 
 
- AT THE MOTEL
+ **AT THE MOTEL**
 
  - Front Desk Clerk: Evening folks. What can we do for you?
 
@@ -131,7 +135,6 @@ ON THE ROAD
  - John: No, we have a couple of kids and a dog ... a doggone load of stuff out in the car too.
 
  - Front Desk Clerk: Don't worry about your stuff. It'll be safe if you lock the car.
-
  Let's see now. How about a rooom with a double bed, a single bed, and *an extra rollaway bed for one of the kids*.
 
  - John: That sounds fine.
@@ -143,10 +146,10 @@ ON THE ROAD
  - Jean: Come on, kids. Let's go get something to eat.
 
  - Mike: That's the best idea I've heard all day.
+<br><br>
 
 
  (a few hours later)
-
  - Christy: My bed's nice and cozy.
 
  - Jean: Yeah, *our last night oof comfort* before we have to sleep on the ground like dogs. John, couldn't we just put the Nature Channel on TV and *pretend we're camping*?
@@ -164,13 +167,12 @@ ON THE ROAD
  - Mike and Christy: Good night!
 
  - John: Good night, Buster!
-
  (Buster barks)
 <br><br><br>
 
 
 
-AT THE PARK
+**AT THE PARK**
 
 - Ranger: Good day, folks. Can I see your reservation?
 
@@ -199,7 +201,7 @@ AT THE PARK
 
 
 
-AT THE CAMPSITE
+**AT THE CAMPSITE**
 
 - John: Well, here we are. Come on, kids, *let's start unloading the car*.
 
@@ -207,12 +209,11 @@ AT THE CAMPSITE
 
 - John: No. First we unload the car, and then we can go for a swim.
 
-                            ...
+                                            ...
 
 - Mike: Last one in is a rotten egg.
 
 - Christy: *That's not fair*, Mike
-
 You jumped in before you even said anything.
 
 - Mike: *I bet I can hold my breath longer than you*, Christy.
@@ -225,7 +226,7 @@ You jumped in before you even said anything.
 
 - Jean: Yeah, *it looks like it is*. Mm! Smells great!
 
-                            ...
+                                            ...
 
 - Jean: Oh, *I can't stop yawning*. It must be time to go to bed.
 
@@ -244,7 +245,6 @@ You jumped in before you even said anything.
 - Mike: Good night, Mom. Good night... *Crispy*! Hey, Dad, are we really going to catch some fish tomorrow?
 
 - John: We sure are. *The secret of being* a good fisherman and being a good outdoorsman in general is to *never lose your control*.
-
 A good outdoorsman must be calm at all times.
 
 - Mike: I'm going to go to the bathroom.
@@ -259,4 +259,39 @@ A good outdoorsman must be calm at all times.
 
 - John: It... It... It was a bear. It...It was right there.
 
-- Ranger: Hey, that must have been Old Ben. He loves popcorn. *He can smell it a mile away.* Old Ben's as gentle as a lamb. 
+- Ranger: Hey, that must have been Old Ben. He loves popcorn. *He can smell it a mile away.* Old Ben's as gentle as a lamb. *But the worst thing you* can do when you see a bear is to *panic the way you did*. Then they can be dangerous.
+- Mike: Yeah, Dad. To be a good outdoorsman, *you got to stay calm at all times*!
+
+
+
+## Grammar
+### ```MUST HAVE + PAST PARTICIPLE```
+- used to refer to deductions about the past.
+
+
+
+### the prefix ```UN-```
+- has a negative or opposite meaning.
+- other prefixes: *ir-*, *dis-*, and *in-*
+
+
+
+## Expressions
+
+|   |   |
+|:---|:---|
+| to leave behind |
+|to be on one's way |  |
+| to be as snug as a bug in a rug  |  |
+| a good night's sleep  |  |
+| don't mention it |  |
+| to lose a person's cool |  |
+
+
+
+## I know how to...
+- express agreement: that's the best idea I've heard all day.
+- state that something is ready: that should just about do it.
+- make a deduction:
+    - It must be time to go to bed.
+    - Hey, that must have been Old Ben.
