@@ -1,5 +1,6 @@
 # Lesson 2
 
+
 ## Communicative Objectives
 - expressing opinions about habits
 - expressing disbelief
@@ -10,16 +11,19 @@
 
 
 ## Vocabulary
-- smoke
-- cigarettes
-- packs
-- lock
-- planting
-- grow
-- groceries
-- grocery store
-- thumb
-- air conditioner
+|   |   |
+|:---|:---|
+| smoke |  |
+| cigarettes |  |
+| packs |  |
+| lock |  |
+| planting |  |
+| grow |  |
+| groceries |  |
+| grocery store |  |
+| thumb |  |
+| air conditioner |  |
+
 
 
 ## Situations
@@ -30,6 +34,7 @@
 - S: Great.
 - S: Do you think it'll be easy to give up smoking?
 - F: Piece of cake. I've done it dozens of times.
+<br>
 
 
 ### Situation 2: Spacing Out
@@ -38,7 +43,31 @@
 - M: But I don't remember locking the front door.
 - D: I'm sure you did. How could you forget to lock the door? You just did it without thinking about it.
 - M: I hope you're right.
+<br>
+
+
+### Situation 3: Talking about gardening
+
+<br><br>
+
+
+## Grammar
 
 
 
 ## Expressions
+|   |   |
+|:---|:---|
+| to give up |  |
+| piece of cake |  |
+| to space out |  |
+| to have a green thumb |  |
+| to come up |  |
+| come to think of it |  |
+
+
+|   |   |
+|:---|:---|
+| express opinions about habits | You should stop smoking |
+| express disbelief | How could you forget to ...? | 
+| talk about future plans | We should try |
