@@ -23,9 +23,21 @@
 
 ## Situations
 ### Situation 1: At a sidewalk café
-- boy at the table: Hey, are you OK? You look badly shaken up.
-
+- boy at table: Hey, are you OK? You look badly shaken up.
+- boy standing: Some nut on a motorcycle almost ran me over just now. He could have killed me.
+- boy standing: So, how was your day?
+- boy at table: It couldn't have been better. My folks finally bought me the bike I've always wanted.
+- boy standing: Wait a minute. It was you!
+- boy at table: I'm out of here.
 - I'm out of here
+
+
+### Situation 2: Nothing's private anymore
+- girl on laptop: Seems I lost out on one cool party last night.
+- girl holding cellphone: Yeah. You should have been there. I had a blast.
+- girl on laptop: I can see that. Ted posted some photos on MyPlace and tagged you.
+- girl holding cellphone: Oh, my God! He shouldn't have done that.
+- girl holding cellphone: 
 <br>
 
 ### Situation 2: Nothing's private anymore
