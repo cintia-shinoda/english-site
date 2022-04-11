@@ -24,6 +24,8 @@
 ## Situations
 ### Situation 1: At a sidewalk café
 - boy at the table: Hey, are you OK? You look badly shaken up.
+
+- I'm out of here
 <br>
 
 ### Situation 2: Nothing's private anymore
