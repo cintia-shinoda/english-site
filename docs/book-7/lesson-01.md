@@ -5,10 +5,12 @@
 - discussing restaurant menu options
 - asking for a favor
 - phrasal verbs
+<br><br>
 
 
 ## Vocabulary
-|||
+
+|     |   |
 |:---:|---|
 |menu|a list of all the food and drinks you can order at a restaurant|
 |wings||
@@ -18,6 +20,7 @@
 |chicken fingers|long thin pieces of chicken that are fried|
 |cheeks|on the sides of your face|
 |bow|used to decorate things|
+<br><br>
 
 
 ## Situations

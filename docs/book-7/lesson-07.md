@@ -9,6 +9,7 @@
 
 
 ## Vocabulary
+
 |||
 |:---:|---|
 | wall | one of the sides of a room or building |

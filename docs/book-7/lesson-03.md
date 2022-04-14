@@ -12,6 +12,7 @@
 
 
 ## Vocabulary
+
 |||
 |:---:|---|
 |put together| to join parts of an object |

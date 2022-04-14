@@ -10,6 +10,7 @@
 
 
 ## Vocabulary
+
 |||
 |:---:|---|
 | alien | a person or creature from another planet |

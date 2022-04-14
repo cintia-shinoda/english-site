@@ -5,16 +5,19 @@
 - discussing habits
 - talking about preferences and desires
 - verbs followed by the -ing form
+<br><br>
 
 
 ## Vocabulary
-|||
+
+|     |   |
 |:---:|---|
 | New Year's Eve |
 | New Year's Day |
 | resolution | a promise to yourself you're going to do something |
 |list| group of items written down one after the other |
 |document|a written or printed text, especially something official, that is saved, often on a computer|
+<br><br>
 
 
 ## Situations
@@ -48,16 +51,19 @@ W: I just copy my last list and save it as a new document.
 2 - Yeah, the lot's chaotic when school lets out. I detest getting stuck in that long line of cars.
 
 3  - It's not the line that upsets my mom. She detests leaving the house before her favorite soap opera ends at 4.
+<br><br>
 
 
 ## Grammar
 ### VERBS FOLLOWED BY THE *-ING* FORM
     When certain verbs such as in the table below are followed by another verb, the 2nd verb is alwaya in the *-ing* form
+
 ||||||
 |---|---|---|---|---|
 | admit | detest | finish | imagine | miss |
 | appreciate | enjoy | forgive | mention | suggeest |
 | avoid | explain | go | mind | understand | 
+<br><br>
 
 
 ## Expressions
