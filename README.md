@@ -106,3 +106,8 @@
 ### Book 7 - 
 <p align="center">
   <img src="https://github.com/cintia-shinoda/english-site/blob/master/ram-final-7.jpeg" alt="relatorio-7"/>
+
+
+### Book 8
+<p align="center">
+  <img src="https://github.com/cintia-shinoda/english-site/blob/master/ram8-02-03.jpeg" alt="relatorio-8-02-03"/>
