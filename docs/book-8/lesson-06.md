@@ -33,12 +33,16 @@
 - big sister: She's making a big presentation on Monday.
 - little brother: What's Mom's presentation about?
 - big sister: She's designing a new line of furniture for a big company.
-- little brother:
+- little brother: Cool. She may need my computer skills for that. And you're perfect for taking care of the manual labor.
 
 <br><br>
 
 
 ## Grammar
+### ˜˜˜DO``` and ```MAKE```
+
+### ```The Present Subjunctive Tense````
+
 
 <br><br>
 
