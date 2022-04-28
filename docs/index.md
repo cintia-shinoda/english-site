@@ -71,10 +71,10 @@
 | &check; | 05 | 03/03/2022 |  |  |
 | &check; | 06 | 08/03/2022 | Lesson 2 |  |
 | &check; | 07 | 10/03/2022 | Lesson 2 |  |
-| &check; | 08 | 15/03/2022 | Lesson 2 + Lesson 3 |  |
+| &check; | 08 | 15/03/2022 | <ul><li>Lesson 2</li><li>Lesson 3</li></ul> |  |
 | &check; | 09 | 17/03/2022 | Lesson 3 |  |
 | &check; | 10 | 22/03/2022 | Lesson 3 |  |
-| &check; | 11 | 24/03/2022 | Lesson 3 + Lesson 4 |  |
+| &check; | 11 | 24/03/2022 | <ul><li>Lesson 3</li><li>Lesson 4</li></ul> |  |
 | &check; | 12 | 29/03/2022 | Lesson 4 |  |
 | &check; | 13 | 31/03/2022 | Lesson 4 |  |
 | &check; | 14 | 05/04/2022 | Lesson 4 |  |
@@ -83,7 +83,7 @@
 | &check; | 17 | 14/04/2022 | Lesson 5 |  |
 | &check; | 18 | 19/04/2022 | Lesson 6 |  |
 | &check; | 19 | 26/04/2022 | Lesson 6 |  |
-|  | 20 | 28/04/2022 |  | |
+| &check; | 20 | 28/04/2022 | <ul><li>Lesson 6</li><li>Lesson 7</li></ul> |  |
 |  | 21 | 03/05/2022 | Practice Test 1 |  |
 |  | 22 | 05/05/2022 | Midterm Exam |  |
 |  | 23 | 10/05/2022 |  |  |

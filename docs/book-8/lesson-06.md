@@ -39,10 +39,11 @@
 
 
 ## Grammar
-### ˜˜˜DO``` and ```MAKE```
+### ```DO``` and ```MAKE```
 
-### ```The Present Subjunctive Tense````
+### ```The Present Subjunctive Tense```
 
+### The prefix ```IN -```
 
 <br><br>
 
@@ -51,4 +52,6 @@
 
 |    |    |
 |:---|:---|
-|  |  |
+| in need of |  |
+| to speak of |  |
+| manual labor |  |
