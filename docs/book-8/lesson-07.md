@@ -10,7 +10,17 @@
 
 |    |    |
 |:---|:---|
-
+| flip-flops |  |
+| sneakers |  |
+| Miami |  |
+| passport |  |
+| baggage claim |  |
+| carry-on |  |
+| boarding pass |  |
+| gate |  |
+| board |  |
+| boarding |  |
+| security checkpoint |  |
 
 <br><br>
 
