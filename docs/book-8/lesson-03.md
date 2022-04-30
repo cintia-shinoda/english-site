@@ -72,10 +72,16 @@
 
 
 ### ```relative pronouns: WHICH and WHOSE```
+#### ```WHICH```
+- used to refer to animals and things
 
+### ```WHOSE```
+- used mostly with people, but can also be used with animals and things
 
 ### ```Future Continuous Tense```
-
+WILL BE + VERB+ING
+- express an action that will be in progress at a particular moment in the future
+- is often used to talk about planned events
 
 
 ## Expressions
