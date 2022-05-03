@@ -60,22 +60,20 @@
 
 ## Grammar
 ### ```the suffix -LY```
-
+- meaning in the manner of
 
 ### ```the suffix -AL```
-
-
-### ```the suffix -ER```
-
+- meaning related to, connected with
 
 ### ```the suffix -ER```
+- formos the noun that describes the person or thing that performs the action of the verb
 
 
 ### ```relative pronouns: WHICH and WHOSE```
 #### ```WHICH```
 - used to refer to animals and things
 
-### ```WHOSE```
+#### ```WHOSE```
 - used mostly with people, but can also be used with animals and things
 
 ### ```Future Continuous Tense```
