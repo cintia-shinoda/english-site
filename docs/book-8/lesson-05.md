@@ -46,11 +46,11 @@
 
 ## Grammar
 ### ```COULD HAVE + past participle```
-
+- talking about a possibility in the past that didn't happen
 <br>
 
 ### ```SHOULD HAVE + past participle```
-
+- a past action which was advisable was NOT performed
 <br><br>
 
 
@@ -64,3 +64,8 @@
 | to lose out on |  |
 | to have a fit |  |
 | brand-new |  |
+
+
+##
+- possibility in the past
+- advice and criticism in the past
