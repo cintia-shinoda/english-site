@@ -2,7 +2,13 @@
 
 
 ## Communicative Objectives
-
+- expressing a desire
+- stating a warning
+- giving advice
+- expressing a desire/wish
+- signs
+- wish
+- use of MAY (expressing a wish)
 <br><br>
 
 

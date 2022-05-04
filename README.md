@@ -79,7 +79,7 @@
 | &check; | 18 | 19/04/2022 | Lesson 6 |  |
 | &check; | 19 | 26/04/2022 | Lesson 6 |  |
 | &check; | 20 | 28/04/2022 | <ul><li>Lesson 6</li><li>Lesson 7</li></ul> |  |
-|  | 21 | 03/05/2022 | Practice Test 1 |
+| &check; | 21 | 03/05/2022 | Practice Test 1 |  |
 |  | 22 | 05/05/2022 | Midterm Exam |
 |  | 23 | 10/05/2022 |  |
 |  | 24 | 12/05/2022 |  |

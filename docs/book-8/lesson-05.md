@@ -3,7 +3,7 @@
 
 ## Communicative Objectives
 - talking about possibility in the past
-- expressing advice  and criticism in the past
+- expressing advice and criticism in the past
 - could have + past participle
 - should have + past participle
 

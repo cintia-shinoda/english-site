@@ -2,7 +2,11 @@
 
 
 ## Communicative Objectives
-
+- asking for a favor
+- explaining what something is about
+- DO and MAKE
+- the Present Subjunctive Tense
+- the prefix IN-
 <br><br>
 
 
