@@ -51,18 +51,28 @@
 | slip into |  |
 | staff |  |
 | stranger |  |
-| surly |  |
+| surly | rude |
 | take |  |
 | willing |  |
+| chalk up |  |
+| check |  |
+
+## Vocabulary
+
+| adjoin |  |
+| analyst |  |
 
 
 
 
 ## Grammar
 ### ```the suffix -LY```
-- meaning in the manner of
+- form an adverb
+- meaning *in the manner of*
+- can also be added to the end of nouns to form adjectives (friendly)
 
 ### ```the suffix -AL```
+- form an adjective
 - meaning related to, connected with
 
 ### ```the suffix -ER```
@@ -74,13 +84,13 @@
 - used to refer to animals and things
 
 #### ```WHOSE```
-- used mostly with people, but can also be used with animals and things
+- used mostly with *people*, but can also be used with animals and things
 
 ### ```Future Continuous Tense```
-WILL BE + VERB+ING
+- WILL BE + VERB+ING
 - express an action that will be in progress at a particular moment in the future
 - is often used to talk about planned events
-
+-ask about somebody's plans
 
 ## Expressions
 
