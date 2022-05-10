@@ -46,7 +46,15 @@
 - boy in flip-flops: No problem. Take care!
 
 
-### Situation 2:
+### Situation 2: At the check-in counter
+- boy: Here you are. I have two bags to check and one carry-on.
+- airline ticket agent: Thank you very much.
+- airline ticket agent: Here's your boarding pass. Your departure gate is H4.
+- boy: Thanks!
+- airline ticket agent: The plane will board in about an hour. You should proceed to the security checkpoint now.
+- boy: Already? Dang, I wish I weren't leaving.
+- boy: Time flies when you're having fun. I was afraid to come, but I had such an unforgettable experience studying here.
+- airline ticket agent: May this be the first of many visits to the U.S.
 
 
 <br><br>
