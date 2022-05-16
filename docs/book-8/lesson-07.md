@@ -59,9 +59,13 @@
 
 
 ## Grammar
-### WISH
+### ```WISH```
+- to express a wish about the present: wish + verb in the past subjunctive
+- when with the verb *to be*, use *were* for all persons
 
-### MAY
+
+### ```MAY``` expressing a wish
+- may + verb in the present subjunctive
 
 
 <br><br>
