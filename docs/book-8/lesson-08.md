@@ -57,8 +57,22 @@ New Hampshire's winter days are like snowflakes: no two are the same.
 
 
 ## Grammar
+### the suffix ```-LESS```
+- adjective-forming
+- meaning *without*
+
+### the suffix ```-FUL```
+- adjective-forming
+- meaning *full of*, *characterized by*
 
 <br><br>
 
 
 ## Expressions
+
+|    |    |
+|:---|:---|
+| to bring out |  |
+| to warm up |  |
+| action-packed |  |
+| one-of-a-kind |  |
