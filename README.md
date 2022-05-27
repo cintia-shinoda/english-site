@@ -86,7 +86,7 @@
 | &check; | 25 | 17/05/2022 | Lesson 8 |  |
 | &check; | 26 | 19/05/2022 | Lesson 8 |  |
 | &check; | 27 | 24/05/2022 | <ul><li>Lesson 8</li><li>Lesson 9</li></ul> |  |
-|  | 28 | 26/05/2022 |  |
+| &check; | 28 | 26/05/2022 | Lesson 9 |  |
 |  | 29 | 31/05/2022 |  |
 |  | 30 | 02/06/2022 |  |
 |  | 31 | 02/06/2022 |  |
@@ -110,4 +110,4 @@
 
 ### Book 8
 <p align="center">
-  <img src="https://github.com/cintia-shinoda/english-site/blob/master/ram8-02-03.jpeg" alt="relatorio-8-02-03"/>
+  <img src="https://github.com/cintia-shinoda/english-site/blob/master/ram-B08-M05.jpeg" alt="relatorio-book8-maio"/>
