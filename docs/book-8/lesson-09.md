@@ -55,3 +55,8 @@ As a kid, I didn't think about cooking that much. My mother did most of the cook
 
 
 ## Grammar
+### Participial Adjectives: ```-ING, -ED```
+
+### Fixed Expressions with ```TO MAKE```
+
+### The prefix ```DIS-```
