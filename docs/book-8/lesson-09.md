@@ -50,6 +50,14 @@ In addition to being a science, cooking can certainly be called an art. Art is o
 As a kid, I didn't think about cooking that much. My mother did most of the cooking at our home, and I remember her food as being delicious, but I really took it for granted. Since I got married, I've shared the  cooking duties with my wife, and now that our two kids are old enough, they pitch in as well. As cooks, I wouldn't say that any of us is truly an artist except my wife, perhaps, because she can make anything. Her special talent is whipping up a great meal from whatever ingredients we have on hand, even when it seems thhat the cupboard is bare. We call her the jazz cook because of her ability to improvise.
 
 
+The rest of us can certainly follow a recipe though, and we all have certain dishes we consider to be our specialties. My area of expertise is breakfast dishes, like pancakes, omelets, and hash browns. Our daughter loves to make desserts, and since everyone in the family has a sweet tooth, we all get excited when she gets started in the kitchen. And our son is an incredible sandwich maker who can turn a simple sandwich or a wrap into a satisfying meal.
+
+As I've grown older, I've come to appreciate the art of cooking. I have especially come to recognize that, as in any artistic endeavor, some people have more talent for cooking than others because, no matter how hard I try, my food never tastes as good as the food my wife prepares. This increased appreciation for cooking has gotten me interested in what I like to call cooking as entertainment, and the whole family has developed a taste, so to speak, for watching cooking shows on the various streaming services we subscribe to.
+
+When my wife and I were young, cooking shows were helpful but a bit boring. They generally featured a chef in a  studio kitchen showing you how to cook a relatively common dish-something not too exotic-that would be easy for viewers to make at home. But I'm never bored by today's modern cooking shows that take a variety of very entertaining approaches.
+
+
+
 
 <br><br>
 
