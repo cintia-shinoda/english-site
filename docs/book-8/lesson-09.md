@@ -68,3 +68,21 @@ When my wife and I were young, cooking shows were helpful but a bit boring. They
 ### Fixed Expressions with ```TO MAKE```
 
 ### The prefix ```DIS-```
+
+### The suffix ```-ABLE```
+
+<br><br>
+
+
+## Expressions
+|||
+|:---|:---|
+| to take a bite |  |
+| successfully reproduce |  |
+| an emotional response |  |
+| special talent |  |
+| artistic endeavor |  |
+| in search of |  |
+| reality show |  |
+| hopes and dreams |  |
+| to feel a person's pain |  |
