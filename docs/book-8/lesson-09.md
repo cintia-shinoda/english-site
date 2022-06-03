@@ -2,7 +2,11 @@
 
 
 ## Communicative Objectives
-
+- talking about cooking
+- participial adjectives
+- fixed expressions with to make
+- the prefix DIS-
+- the suffix -ABLE
 <br><br>
 
 
@@ -57,8 +61,14 @@ As I've grown older, I've come to appreciate the art of cooking. I have especial
 When my wife and I were young, cooking shows were helpful but a bit boring. They generally featured a chef in a  studio kitchen showing you how to cook a relatively common dish-something not too exotic-that would be easy for viewers to make at home. But I'm never bored by today's modern cooking shows that take a variety of very entertaining approaches.
 
 
+One type of show involves foodies who scour the world in search of exotic delicacies that are quite different from our own cuisine, and they explain the different ingredients used and how the food is prepared. They are somewhat of a cross between a cooking show and a travel show, because they also like to show gorgeous scenery from destinations that are off the beaten path as well as other elements of foreign cultures.
+
+There are also exciting reality shows in which professional chefs compete in the preparation of specific meals within defined time limits. These shows are also very informative, because the pros share some of their secrets on what makes their beautifully made dishes taste so good. They are often given creative challenges, and the solutions they come up with are amazing, edible works of art that really make your mouth water, although it is a bit frustrating to know we will never be able to achieve such perfection ourselves. My wife and I look at each other with disbelief as they work their magic, but we can only imagine how their food must taste.
 
 
+Our favorite shows, however, are the ones where amateur cooks race against the clock to create original entrees or desserts according to challenges presented by a famous chef acting as a host or judge. Some of them make it even more interesting by having celebrities from other walks of life participate as judges or even as contestants. These shows are full of drama and humor as the contestants compete and try to avoid being eliminated while facing one challenge after another. Watching them you not only learn a few things about cooking but about human nature as well. The contestants talk a bit about their hopes and dreams or some of the disadvantages they have faced in life. Then we get to see how they react under pressure when they disagree with some of the other participants of when the judges criticize of make fun of their creations. We usually start to identify with some of the contestants as we get to know them, cheering them on and feeling their pain when they become frustrated and exhausted. Getting swept up in their stories makes the shows about much more than just food. They are about real life, and that makes for some pretty good TV.
+
+They say that art imitates life, and they also say that life imitates art. I'm no philosopher, and I'm not sure that I understand all of the implications of those two statements, but I do believe that food is life and cooking is art, and that nowadays I get great pleasure out of cooking and eating. And, finally, that all of this reflection on the subject is making me hungry, so I think it's time to end this article and head to the kitchen. Bon appétit!
 <br><br>
 
 
@@ -75,6 +85,7 @@ When my wife and I were young, cooking shows were helpful but a bit boring. They
 
 
 ## Expressions
+
 |||
 |:---|:---|
 | to take a bite |  |

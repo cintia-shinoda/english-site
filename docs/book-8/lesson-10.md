@@ -1,8 +1,15 @@
-# Lesson 9
+# Lesson 10
 
 
 ## Communicative Objectives
-
+- talking about travel
+- talking about hotel arrangements and currency
+- talking about a trip
+- telling the time in american english
+- position of adverbs of place, manner, and time
+- position of adverbs of manner, place, and time
+- fixed expressions with to do
+- might have + past participle
 <br><br>
 
 
