@@ -31,7 +31,21 @@
 | dinosaurs |  |
 
 
-## Magazine Article
+## Magazine Article: Rent my life!
+There's a strange woman in our shower. She and her boyfriend arrived late last night, and she's slipped into our bathroom, which adjoins the office where my wife, Laura, and I are working. (...)
+
+"Did you meet them?" Laura whispers.
+"Are they nice?"
+
+I don't know if they're nice - but does it matter? They are paying $135 to stay with us!
+
+Meanwhile, I'm waiting for a nurse named Amy to return my electric sander. She paid me $4 to rent it for a day, and said she'd be back this morning. (...)
+
+This is huge. The fact that complete strangers are willing to pay me to rent my belongings - the fact that I can make money from stuff I wasn't using anyway-is a breakthrough discovery or a par with penicilin or the second law of thermodynamics. (...)
+
+Take our backyard deck and barbecue. I'm charging a group of people $18 to use it while I'm not even home. I'll be away meeting someone who's renting our dog for $3 an hour.
+(...) Call me a rentrepreneur, one of the growing ranks of Americans who are finding creative ways to make a quick buck by hiring out their personal belongings. (...) There are now sites to connect people who want to rent out their cars, couches, personal services, or even dinosaur costumes. For renters, the sites offer goods and services for a relative bargain. More than that, they're a chance to bypass corporate America at a time when corporate America is in the doghouse. Why endure the long waits, high prices, and surly staff at your big-box tool rental counter when you can pick up Rob Baedeker's electric sander for a song- and go home with a smile?
+
 
 |  |  |
 |:---|:---|
