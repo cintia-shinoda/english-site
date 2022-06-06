@@ -47,6 +47,9 @@ Take our backyard deck and barbecue. I'm charging a group of people $18 to use i
 (...) Call me a rentrepreneur, one of the growing ranks of Americans who are finding creative ways to make a quick buck by hiring out their personal belongings. (...) There are now sites to connect people who want to rent out their cars, couches, personal services, or even dinosaur costumes. For renters, the sites offer goods and services for a relative bargain. More than that, they're a chance to bypass corporate America at a time when corporate America is in the doghouse. Why endure the long waits, high prices, and surly staff at your big-box tool rental counter when you can pick up Rob Baedeker's electric sander for a song- and go home with a smile?
 
 
+There's a virtue in shifting from a throw-away society to a new economy of reuse. (...) And the cash does come  in handy. My wife and I, both writers and editors, make a decent income for now, but why not make a little extra scratch on the side for our daughter's college savings, or a remote-control pool shark? (I can always recoup the money by renting the shark out later.)
+
+
 |  |  |
 |:---|:---|
 | adjoin |  |
