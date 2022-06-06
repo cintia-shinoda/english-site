@@ -49,6 +49,12 @@ Take our backyard deck and barbecue. I'm charging a group of people $18 to use i
 
 There's a virtue in shifting from a throw-away society to a new economy of reuse. (...) And the cash does come  in handy. My wife and I, both writers and editors, make a decent income for now, but why not make a little extra scratch on the side for our daughter's college savings, or a remote-control pool shark? (I can always recoup the money by renting the shark out later.)
 
+I kick off my experiment with our most prized possession: and old camping trailer we park on the sideyard of our (rented) three-bedroom bungalow. (...) I create an account at Airbnb.com, a San Francisco-based company that matches travelers with hosts. I list our trailer for $45 a night.
+
+Almost immediately, I get a request from a user named Lee N. (...) However, by the time Lee N. and I talk, I've already received another offer from a guy named Etan B., who has three positive reviews and whose profile says he "likes tech startups and food!" I accept Etan's offer, and I chalk up $184 in the "plus" column. (Airbnb takes a 3 percent cut and mails me a check once he arrives at my house.)
+
+I want to keep Lee N. on the hook, though, so I ask if he'd be interested in sleeping on an air mattress in our office ffor a discount rate. He offers $25 a night for four nights. (...) Then I remember that we don't have an air mattress-my wife gave it away when we bought the trailer. So I borrow one from my friend John. He doesn't ask why I need it, and I don't tell. (Is it ethical to rent out a mattress I borrowed from a friend? For $100 dollars, I am willing to table the question.)(...)
+
 
 |  |  |
 |:---|:---|
