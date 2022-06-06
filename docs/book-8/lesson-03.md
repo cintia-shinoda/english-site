@@ -55,6 +55,32 @@ Almost immediately, I get a request from a user named Lee N. (...) However, by t
 
 I want to keep Lee N. on the hook, though, so I ask if he'd be interested in sleeping on an air mattress in our office ffor a discount rate. He offers $25 a night for four nights. (...) Then I remember that we don't have an air mattress-my wife gave it away when we bought the trailer. So I borrow one from my friend John. He doesn't ask why I need it, and I don't tell. (Is it ethical to rent out a mattress I borrowed from a friend? For $100 dollars, I am willing to table the question.)(...)
 
+Once you've rented out extra space in your home, everything starts to look like a dormant cash cow. (...) I post my daughter's red wagon, my wife's Vitamix blender, and my landlord's weed whacker (the moral code I follow on these items- which aren't technically "mine"- is "what they don't know won't hurt them". I think it comes from Socrates).
+
+I put a flier up in our neighborhoood with the headline, "Need a weed whacker?" and then a list of my tools and other items for rent. I also announce my available services via email, Twitter, Facebook, and a blog post.(...)
+
+I mention to my wife that I've put her new Vitamix blender up for rent oon a new site that calls itself a "person-to-person rental marketplace," which noot only helps people make - or save - money, but also helps the environment. Regardless, my wife is noot cool with that. I apologize, but leave the ad online.(...)
+
+
+Then I have an epiphany: I've been overlooking one of our biggest rentable assets, which is idling right under our noses: our border collie, Clementine. Surely there's a dog lover out there who can't afford the full-time commitment (or who's been forbidden to own one by some kind of court order).
+
+I put an ad online:
+Rent my dog! $3 (Berkeley) Sweet 7-year-old Border Collie available for leisure / companionship. Take her for a walk: a great way to strike up conversations with strangers and perhaps meet someone special. Throw the ball with her for an hour and you'll both be reinvigorated.
+
+The next day I get an email from a woman named Jude Bell. (...) She is a kind-sounding 60-year-old financial analyst working at UC Berkeley. She says she "can't get enough of dogs" and that her landlord won't leet her have one.
+
+It is at this moment, I realize I am a true genius: I've just discovered a way for people to pay me to walk my dog.
+
+Jude and I arrange to meet on campus during her lunch hour, and Jude takes Clementine to a nearby soccer field and plays fetch while I hang around, to make sure Clemmy doesn't get dognapped. (...)
+
+
+By the time I arrive home, there's a $3 credit in my PayPal account, along with a message from Jude: "I don't think I've ever had so much fun for $3! I thoroughly enjoyed every moment." (Mental note: I definitely undercharged her.) The woman in our shower - her name is Megan - turns out to be friendly and considerate. So is her boyfriend, Mason.(...)
+He's 23 and an editor at a sustainable-business website; she's 28 and is an out-of-work elementary-school teacher. They booked our trailer for three days through Airbnb.com, adding another $131 to my haul.(...)
+
+I'm planning to blow my extra income on an apology vacation with my wife, to make up for trying to rent her fancy blender. (I've actually still left the post online, but please don't tell ther. I think when she sees we can make money from it instead of just letting it idle, she'll come around.)
+
+P.S. If you're interested in renting a great blender at an incredible price, shoot me an email. The dog's included, too.
+
 
 |  |  |
 |:---|:---|
