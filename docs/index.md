@@ -95,11 +95,10 @@
 | &check; | 29 | 31/05/2022 | Lesson 9 |  |
 | &check; | 30 | 02/06/2022 | <ul><li>Lesson 9</li><li>Lesson 10</li></ul> |  |
 | &check; | 31 | 07/06/2022 | Lesson 10 |  |
-|  | 32 | 09/06/2022 |  |  |
-|  | 33 | 14/06/2022 |  |  |
-|  | 34 | 21/06/2022 |  |  |
-|  | 35 | 23/06/2022 | Practice Test 2  |  |
-|  | 36 | 28/06/2022 | Final Written Exam |  |
-|  | 37 | 30/06/2022 | Oral Exam |  |
+| &check; | 32 | 09/06/2022 | Lesson 10 |  
+|  | 33 | 21/06/2022 |  |  |
+|  | 34 | 23/06/2022 | Practice Test 2  |  |
+|  | 35 | 28/06/2022 | Final Written Exam |  |
+|  | 36 | 30/06/2022 | Oral Exam |  |
 
 <br><br>
