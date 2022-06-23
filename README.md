@@ -92,7 +92,7 @@
 | &check; | 30 | 02/06/2022 | <ul><li>Lesson 9</li><li>Lesson 10</li></ul> |  |
 | &check; | 31 | 07/06/2022 | Lesson 10 |  |
 | &check; | 32 | 09/06/2022 | Lesson 10 |  |
-|  | 33 | 21/06/2022 |  |
+| &check; | 33 | 21/06/2022 | <ul><li>Lesson 10</li><li>Review</li></ul> |  |
 |  | 34 | 23/06/2022 | Practice Test 2 |
 |  | 35 | 28/06/2022 | Final Written Exam |
 |  | 36 | 30/06/2022 | Oral Exam |

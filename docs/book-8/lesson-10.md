@@ -51,7 +51,7 @@
 - mother: You did a great job booking thhe hotel. The facilities were great.
 - father: Yeah, if you hadn't helped, wee might've paid twice as much.
 - son: And you might not have had any money left to buy me stuff. What did you bring me?
-
+<br><br>
 
 
 ## Grammar
@@ -59,3 +59,21 @@
 
 
 ### position of adverbs of ```MANNER, PLACE, and TIME```
+
+
+### ```Fixed Expressions with TO DO```
+
+
+### ```MIGHT HAVE``` + ```PAST PARTICIPLE```
+
+<br><br>
+
+
+
+## Expressions
+
+|  |  |
+|:---|:---|
+| to work out |  |
+| pretty much |  |
+| return flight |  |
