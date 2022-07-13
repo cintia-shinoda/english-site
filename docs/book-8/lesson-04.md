@@ -281,7 +281,7 @@ A good outdoorsman must be calm at all times.
 |   |   |
 |:---|:---|
 | to leave behind |
-|to be on one's way |  |
+| to be on one's way |  |
 | to be as snug as a bug in a rug  |  |
 | a good night's sleep  |  |
 | don't mention it |  |

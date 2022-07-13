@@ -57,18 +57,25 @@
 - try
 - remember
 - stop
+<br><br>
 
 - Ellen **forgot** *to turn* off the air conditioner. (Ellen didn't turn off the air conditioner)
 - Ellen **forgot** *turning* off the air conditioner. (although she had turned off the air conditioner, she forgot that she had done it)
+<br>
+
 
 - You should **try** *to sleep* early tonight if you're really tired. (this is an advice)
 - You should **try** *sleeping* in a cold, dark room if you usually wake up in the middle of the night. (this is a suggestion)
+<br>
 
 - Dad didn't **remember** *to buy* milk at the grocery store yesterday (he forgot to buy milk)
 - Dad didn't **remember** *buying* mild at the grocery store last night, so he bought more today (he didn't remember that he had bought milk)
+<br>
 
 - Jill's going to **stop** at the store *to buy* a cupcake on her way to school. (she's going to stop what she's doing so she can buy a cupcake)
 - Jill's going to **stop** buying cupcakes because she's been eating too many sweets (she isn't going to buy cupcakes anymore)
+<br><br>
+
 
 ## Expressions
 |   |   |

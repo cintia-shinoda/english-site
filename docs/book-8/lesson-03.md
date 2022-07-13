@@ -119,14 +119,16 @@ P.S. If you're interested in renting a great blender at an incredible price, sho
 - form an adverb
 - meaning *in the manner of*
 - can also be added to the end of nouns to form adjectives (friendly)
+<br>
 
 ### ```the suffix -AL```
 - form an adjective
 - meaning related to, connected with
+<br>
 
 ### ```the suffix -ER```
-- formos the noun that describes the person or thing that performs the action of the verb
-
+- added to a verb, forms the noun that describes the person or thing that performs the action of the verb
+<br>
 
 ### ```relative pronouns: WHICH and WHOSE```
 #### ```WHICH```
@@ -134,6 +136,8 @@ P.S. If you're interested in renting a great blender at an incredible price, sho
 
 #### ```WHOSE```
 - used mostly with *people*, but can also be used with animals and things
+<br>
+
 
 ### ```Future Continuous Tense```
 - WILL BE + VERB+ING

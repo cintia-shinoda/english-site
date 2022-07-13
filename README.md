@@ -3,8 +3,8 @@
 | | Book | Period |
 |:---:|:---:|:---|
 | &check; | Book 7 | August/2021 - December/2021 |
-| on progress | Book 8 | February/2022 - June/2022 |
-| | Book 9 | August/2022 - December/2022 |
+| &check; | Book 8 | February/2022 - June/2022 |
+| on progress | Book 9 | August/2022 - December/2022 |
 
 <br><br>
 
@@ -94,8 +94,9 @@
 | &check; | 32 | 09/06/2022 | Lesson 10 |  |
 | &check; | 33 | 21/06/2022 | <ul><li>Lesson 10</li><li>Review</li></ul> |  |
 | &check; | 34 | 23/06/2022 | <ul><li>Practice Test 2</li><li>Review</li></ul> |  |
-|  | 35 | 28/06/2022 | Final Written Exam |
-|  | 36 | 30/06/2022 | Oral Exam |
+| &check; | 35 | 28/06/2022 | Final Written Exam | 96.35 / 100 |
+| &check; | 36 | 30/06/2022 | Oral Exam | 96.5 / 100 |
+| |  |  | **Average** | 95.8 / 100.0 |
 
 <br><br>
 
@@ -104,9 +105,9 @@
 ## Grades
 ### Book 7 - 
 <p align="center">
-  <img src="https://github.com/cintia-shinoda/english-site/blob/master/ram-final-7.jpeg" alt="relatorio-7"/>
+  <img src="https://github.com/cintia-shinoda/english-site/blob/master/ram-final-7.jpeg" alt="relatorio-book7"/>
 
 
 ### Book 8
 <p align="center">
-  <img src="https://github.com/cintia-shinoda/english-site/blob/master/ram-B08-M05.jpeg" alt="relatorio-book8-maio"/>
+  <img src="https://github.com/cintia-shinoda/english-site/blob/master/ram-final-8.jpeg" alt="relatorio-book8"/>

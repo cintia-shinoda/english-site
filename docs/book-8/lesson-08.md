@@ -12,7 +12,7 @@
 
 |    |    |
 |:---|:---|
-| New England |  |
+| New England | Maine + New Hampshire + Vermont + Massachusetts + Rhode Island + Connecticut |
 | New Hampshire |  |
 | pump |  |
 | heart |  |
@@ -66,7 +66,7 @@ New Hampshire's winter days are like snowflakes: no two are the same.
 - meaning *full of*, *characterized by*
 
 <br><br>
-
+other suffixes: -AL, -ER, -FULL, -LESS, LY
 
 ## Expressions
 

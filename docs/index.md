@@ -98,7 +98,8 @@
 | &check; | 32 | 09/06/2022 | Lesson 10 |  
 | &check; | 33 | 21/06/2022 | <ul><li>Lesson 10</li><li>Review</li></ul> |  |
 | &check; | 34 | 23/06/2022 | <ul><li>Practice Test 2</li><li>Review</li></ul>  |  |
-|  | 35 | 28/06/2022 | Final Written Exam |  |
-|  | 36 | 30/06/2022 | Oral Exam |  |
+| &check; | 35 | 28/06/2022 | Final Written Exam | 96.35 / 100 |
+| &check; | 36 | 30/06/2022 | Oral Exam | 96,5 / 100 |
+| |  |  | **Average** | 95.8 / 100.0 |
 
 <br><br>

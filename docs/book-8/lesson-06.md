@@ -16,8 +16,8 @@
 |:---|:---|
 | make the bed |  |
 | housework |  |
-| sheets |  |
-
+| sheets | bottom sheet (or fitted sheet) top sheet |
+| furniture |
 
 <br><br>
 
@@ -44,11 +44,35 @@
 
 ## Grammar
 ### ```DO``` and ```MAKE```
+- we usually use the verb *to do* with the meaning of *to be engaged in, to perform, or to execute some activity*
+    - what are you doing?
+    - do me a favor
+    - do some housework
+    - do the laundry
+    - do homework
+<br>
+
+- we generally use the verb *to make* with the meaning of *to create, to prepare, to construct, or to present something*
+    - make a presentation
+    - to make sandcastles on the beach
+    - make dinner
+    - mmake a speech
+    - make the bed
+<br>
+
 
 ### ```The Present Subjunctive Tense```
+- of verb to be -> use BE for all persons
+- other verbs -> present tense of the verb (without the S in the third person singular)
+- uses:
+    - with that after verbs such: ask, demand, insist, order, propose, recommend, request, require, and suggest (I suggest that we *leave* at once)
+    - after expressions such as * It's important/necessary/essential that
+<br>
+
 
 ### The prefix ```IN -```
-
+- negative prefix
+- used at the beginning of a word to make a new word
 <br><br>
 
 

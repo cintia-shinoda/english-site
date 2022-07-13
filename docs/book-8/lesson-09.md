@@ -74,12 +74,25 @@ They say that art imitates life, and they also say that life imitates art. I'm n
 
 ## Grammar
 ### Participial Adjectives: ```-ING, -ED```
+-ING: active meaning
+-ED: passive meaning
+
 
 ### Fixed Expressions with ```TO MAKE```
+- to make a person a better cook/person...
+- to make someone hungry/mad/happy...
+- to make someone's mouth water
+- to make a meal
+- to make something interesting/dangerous/fun...
+- to make fun of
+- to make for something
+
 
 ### The prefix ```DIS-```
+- negative prefix
 
 ### The suffix ```-ABLE```
+- meaning possible, capable of, or causing
 
 <br><br>
 

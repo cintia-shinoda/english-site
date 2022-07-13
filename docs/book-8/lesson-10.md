@@ -21,7 +21,12 @@
 | Euro |  |
 | Pound |  |
 | oceans |  |
+| facilities |  |
 
+United Kingdom of Great Britain and Northern Ireland
+- england, scotland, wales, and northern ireland
+
+- oceans: pacific, atlantic, artic, indian, southern
 <br><br>
 
 
@@ -62,10 +67,16 @@
 
 
 ### ```Fixed Expressions with TO DO```
+- to do for a living
+- to do a search
+- to do better/worse
+- to do a good/bad/great/terrible job
+- to do well
+- to do one's own thing
 
 
 ### ```MIGHT HAVE``` + ```PAST PARTICIPLE```
-
+- when talking about a possibility in the past that didn't happen
 <br><br>
 
 
