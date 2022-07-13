@@ -85,7 +85,7 @@
 | &check; | 19 | 26/04/2022 | Lesson 6 |  |
 | &check; | 20 | 28/04/2022 | <ul><li>Lesson 6</li><li>Lesson 7</li></ul> |  |
 | &check; | 21 | 03/05/2022 | Practice Test 1 |  |
-| &check; | 22 | 05/05/2022 | Midterm Exam | 94.15 / 100 |
+| &check; | 22 | 05/05/2022 | Midterm Exam | 94.15 / 100.0 |
 | &check; | 23 | 10/05/2022 | Lesson 7 |  |
 | &check; | 24 | 12/05/2022 | Lesson 7 |  |
 | &check; | 25 | 17/05/2022 | Lesson 8 |  |
@@ -98,8 +98,8 @@
 | &check; | 32 | 09/06/2022 | Lesson 10 |  
 | &check; | 33 | 21/06/2022 | <ul><li>Lesson 10</li><li>Review</li></ul> |  |
 | &check; | 34 | 23/06/2022 | <ul><li>Practice Test 2</li><li>Review</li></ul>  |  |
-| &check; | 35 | 28/06/2022 | Final Written Exam | 96.35 / 100 |
-| &check; | 36 | 30/06/2022 | Oral Exam | 96,5 / 100 |
+| &check; | 35 | 28/06/2022 | Final Written Exam | 96.35 / 100.0 |
+| &check; | 36 | 30/06/2022 | Oral Exam | 96,5 / 100.0 |
 | |  |  | **Average** | 95.8 / 100.0 |
 
 <br><br>
